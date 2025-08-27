@@ -1,7 +1,6 @@
 # Convolutional Neural Networks (CNN) for Image Classification  
 
 This repository contains implementations of **Convolutional Neural Networks (CNNs)** applied to the **CIFAR-10 dataset** for image classification.  
-It includes both a baseline CNN implementation and improvements such as **Batch Normalization**, **Dropout**.
 ---
 
 ## Project Overview  
